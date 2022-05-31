@@ -28,12 +28,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # ApexChart
 
-![echarts](https://github.com/arjunkhetia/Angular-ApexChart-Project/blob/main/src/assets/echarts.png "echarts")
+![echarts](https://github.com/arjunkhetia/Angular-Apache-ECharts-Project/blob/main/src/assets/echarts.png "echarts")
 
 ### Dark Theme
 
-![echarts](https://github.com/arjunkhetia/Angular-ApexChart-Project/blob/main/src/assets/theme-1.png "echarts")
+![echarts](https://github.com/arjunkhetia/Angular-Apache-ECharts-Project/blob/main/src/assets/theme-1.png "echarts")
 
 ### User Defined Theme
 
-![echarts](https://github.com/arjunkhetia/Angular-ApexChart-Project/blob/main/src/assets/theme-2.png "echarts")
+![echarts](https://github.com/arjunkhetia/Angular-Apache-ECharts-Project/blob/main/src/assets/theme-2.png "echarts")
